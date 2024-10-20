@@ -1,4 +1,4 @@
-![Screenshot 2024-03-25 143050](https://github.com/user-attachments/assets/facfd7a5-bcd1-4361-8dd7-2827f01e139e)![Screenshot 2024-03-25 143050](https://github.com/user-attachments/assets/c286a84d-e486-4218-82f6-1c04becb955e)# Ex04 Places Around Me
+## Ex04 Places Around Me
 ## Date: 
 
 ## AIM
