@@ -214,7 +214,7 @@ school.html
 
 ```
 ## OUTPUT
-![Screenshot 2024-03-25 143050](https://github.com/user-attachments/assets/433b792b-eeb1-4831-97f4-c7f3ddda895b)
+![put1](https://github.com/user-attachments/assets/c68afab1-c5c4-4927-ad86-c4042de2140f)
 ![hometown](https://github.com/user-attachments/assets/905d4328-e34d-40ce-9eaa-65d6055669cd)
 ![temple](https://github.com/user-attachments/assets/2eb0b6d7-c367-44bf-a7a1-bd5cfc83e9e2)
 ![museum](https://github.com/user-attachments/assets/333cceaa-ada1-4257-baac-dbb494afe8a3)
