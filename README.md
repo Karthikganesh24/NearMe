@@ -35,8 +35,7 @@ map.html
 <body>
 <h1 align="center">
 </h1>
-<h3 align="center">
-<font color="blue"><b>Hariharan A (212223110013)</b></font> 
+<h3 align="center"> 
 </h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
