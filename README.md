@@ -34,7 +34,6 @@ map.html
 </head>
 <body>
 <h1 align="center">
-<font color="red"><b>Thanjavur</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Hariharan A (212223110013)</b></font> 
